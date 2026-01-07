@@ -4,17 +4,11 @@ at the application level and IAM policies at the Google Cloud level.This ensures
 organized and separated within the cloud storage buckets.
 
 Technologies Used
-
 MongoDB - User data and role management
-
 Express.js - Backend API
-
 React - Frontend interface
-
 Node.js - Server runtime
-
 Google Cloud Storage - Image storage
-
 Google IAM - Access control policies
 
 Key Features
